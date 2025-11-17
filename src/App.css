@@ -1,8 +1,10 @@
 #root {
   padding: 10px;
   aspect-ratio: 1 / 1;
-  display: grid;
   gap: 12px;
+  max-width: 800px;
+  min-width: 530px;
+  margin: 0 auto;
 }
 
 button {
